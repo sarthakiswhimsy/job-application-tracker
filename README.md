@@ -18,7 +18,7 @@ Track every application from wishlist to offer, and add your own custom fields t
 
 ## 🔗 Live Demo
 
-**👉 [Open JobTrack](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)**
+**👉 [Open JobTrack](https://sarthakiswhimsy.github.io/job-application-tracker/)**
 
 ## 💾 How your data is stored
 
